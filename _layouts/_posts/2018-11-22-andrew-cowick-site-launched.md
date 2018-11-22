@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Andrew Cowick, Inspiring Programmer, Launches Site"
+date: 2018-11-22
 ---
 
 I put this website together to learn how to use GitHub Pages. I am hoping to put links to my projects on here as well as my resume, etc.

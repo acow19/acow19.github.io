@@ -4,7 +4,7 @@ body {
     background-color: #222222
 }
 nav ul, footer ul {
-    font-family: 'Roboto', 'Sans-Serif';
+    font-family: 'Roboto', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -32,18 +32,18 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #19809e;
-    font-family: 'Roboto', 'Sans-Serif';
+    font-family: 'Roboto', sans-serif;
 }
 footer {
     border-top: 1px solid #222222;
     font-size: .8em;
-    font-family: 'Roboto', 'Sans-Serif';
+    font-family: 'Roboto', sans-serif;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-    font-family: 'Roboto', 'Sans-Serif';
+    font-family: 'Roboto', sans-serif;
 }
 
 ul.posts li {

@@ -37,6 +37,7 @@ p {
 footer {
     border-top: 1px solid #222222;
     font-size: .8em;
+    font-family: 'Roboto', 'Sans-Serif';
 }
 
 ul.posts { 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Andrew Cowick, Inspiring Professional Programmer, Launches Site"
+title: "Andrew Cowick, Aspiring Professional Programmer, Launches Site"
 date: 2018-11-22
 ---
 

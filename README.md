@@ -3,4 +3,4 @@ I am using this repository to host my own personal website and to show my web de
 
 https://acow19.github.io/
 
-![image](acow19.github.io/Screenshot_2019-02-07 Andrew Cowick, Aspiring Professional Programmer.png)
+![image](https://raw.githubusercontent.com/acow19/acow19.github.io/master/Screenshot_2019-02-07%20Andrew%20Cowick%2C%20Aspiring%20Professional%20Programmer.png)

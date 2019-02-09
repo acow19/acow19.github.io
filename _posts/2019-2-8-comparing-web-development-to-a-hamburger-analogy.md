@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comparing Web Development To Making A Hamburger, How To Explain Web Developmenet To Your Parents"
+title: "Comparing Web Development To Making A Hamburger"
 date: 2019-2-8
 ---
 

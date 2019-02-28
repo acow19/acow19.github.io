@@ -50,7 +50,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
-.scroller {
-    scrollbar-color: dark;
-}

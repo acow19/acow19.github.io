@@ -50,3 +50,11 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+::selection {
+    background: #a8d1ff;
+}
+
+::-moz-selection {
+    background: #a8d1ff;
+}

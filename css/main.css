@@ -52,7 +52,7 @@ ul.posts li {
 }
 
 ::selection {
-    background: blue;
+    background:  #8e44ad;
 }
 
 ::-moz-selection {

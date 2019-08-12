@@ -45,7 +45,7 @@ function activateCheats() {
 
   alert("I see that you are a man of culture as well");
 
-    function () {
+    window.onload function () {
         //canvas init
         var canvas = document.getElementById("canvas");
         var ctx = canvas.getContext("2d");

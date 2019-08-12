@@ -43,7 +43,7 @@ function activateCheats() {
   //var audio = new Audio('audio/pling.mp3');
   //audio.play();
 
-  //alert("I see that you are a man of culture as well");
+  alert("I see that you are a man of culture as well");
 
     window.onload = function () {
         //canvas init

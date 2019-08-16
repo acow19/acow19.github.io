@@ -66,10 +66,10 @@ canvas {
     display: block;
 }
 
-img {
+/*img {
     display: inline-block;
-    /*margin: 25px 10px;*/
+    margin: 25px 10px;
     margin-left: auto;
     margin-right: auto;
     padding: 0px 0px 0px 4px;
-}
+}*/

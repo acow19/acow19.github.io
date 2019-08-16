@@ -2,11 +2,29 @@
 layout: default
 title: Andrew Cowick, Aspiring Professional Programmer
 ---
-<div class="blurb">
-	<h1>Hi there, I'm Andrew Cowick</h1>
-	<p>I'm a student at Georgia College & State University. I plan on graduating with a Management Information Systems B.B.A. degree in summer 2020.
-	I am an aspiring Software Developer/Engineer, Web/Front-end Developer, and Mobile Applications Developer. 
-	<em>I am a perfectionist.</em>
-	I also have a love for Running and Nu Disco music.
-	<a href="/about">You can read more about my life here</a></p>
-</div><!-- /.blurb -->
+    <div class="blurb">
+        <script>
+            var today = new Date();
+            var hourNow = today.getHours();
+            var greeting;
+
+            if (hourNow > 18) {
+                greeting = "Good evening!";
+            } else if (hourNow > 12) {
+                greeting = "Good afternoon!";
+            } else if (hourNow > 0) {
+                greeting = "Good morning!";
+            } else {
+                greeting = "Welcome!";
+            }
+            document.write('<h1>' + greeting + '</h1>');
+        </script>
+        <h1>I'm Andrew Cowick</h1>
+        <p>
+            I'm a student at Georgia College & State University. I plan on graduating with a Management Information Systems B.B.A. degree in summer 2020.
+            I am an aspiring Software Developer/Engineer, Web/Front-end Developer, and Mobile Applications Developer.
+            <em>I am a perfectionist.</em>
+            I also have a love for Running and Nu Disco music.
+            <a href="/about">You can read more about my life here</a>
+        </p>
+    </div><!-- /.blurb -->

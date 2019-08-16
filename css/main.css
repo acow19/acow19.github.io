@@ -68,6 +68,6 @@ canvas {
 
 img {
     display: inline-block;
-    margin: 25px 10px;
-    padding: 4px 7px 2px 4px;
+    /*margin: 25px 10px;*/
+    padding: 0px 0px 0px 4px;
 }

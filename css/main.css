@@ -65,3 +65,8 @@ ul.posts li {
 canvas {
     display: block;
 }
+
+img {
+    display: inline-block;
+    margin: 25px 10px;
+}

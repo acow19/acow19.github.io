@@ -55,9 +55,12 @@ ul.posts li {
     background:  #4476ad;
 }
 
-/*::-moz-selection {
-    background: #a8d1ff;
-}*/
+
+/*Do not change this because this will look better on Firefox. It will not look the same as Chrome*/
+::-moz-selection {
+    /*background: #a8d1ff;*/
+    background: #4476ad; 
+}
 
 canvas {
     display: block;

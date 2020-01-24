@@ -4,8 +4,6 @@ title: "What I Learned While Being A Software Engineering Intern At GEICO"
 date: 2020-1-23
 ---
 
-![image](C:\Users\acowi\source\repos\acow19\acow19.github.io\GEICO Swag.jpg)
-
 I was an IT/Software Engineering Intern at GEICO during the summer of 2019. I know that I may seem late writing about this on this website,
 however, this is not my first time writing about my internship. Most of what you will see written below is what I wrote in my internship report
 I had to write in order to get academic credit for my internship. I am wrting this because I wanted to give more detail about my internship

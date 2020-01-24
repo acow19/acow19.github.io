@@ -26,7 +26,7 @@ program. By storing the customer's data, you can now keep track of the customer'
 they can use them when they come back to your resturant for more of your delicious burgers! This will make your customers want to come back to
 your resturant, as well as make your resturant have a higher rate of return. There you go! You now know how to make a hamburger using HTML,
 CSS, JavaScript, and a back-end and a database language. Well, not really. I hope this helps make the concept of web development easier to
-understand. I used this same analogy in order to explain web development to my parents. I am have way too much fun talking about web
+understand. I used this same analogy in order to explain web development to my parents. I have way too much fun talking about web
 development!
 
 I have put an image down below in order to help visualize my analogy. I made this lovly image using Paint 3D!

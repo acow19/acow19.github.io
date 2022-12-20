@@ -3,6 +3,9 @@ body {
     width: 70%;
     background-color: #222222
 }
+body.darkreader {
+    background-image: none;
+}
 nav ul, footer ul {
     font-family: 'Roboto', sans-serif;
     padding: 0px;

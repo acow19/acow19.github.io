@@ -2,40 +2,46 @@
 layout: default
 title: Andrew Cowick, Software Engineer
 ---
-    <div class="blurb">
-        <script>
-            var today = new Date();
+<div class="blurb">
+    <script>
+        var today = new Date();
 
-            var weekdays = new Array(7)
-            weekdays[0] = "Sunday";
-            weekdays[1] = "Monday";
-            weekdays[2] = "Tuesday";
-            weekdays[3] = "Wednesday";
-            weekdays[4] = "Thursday";
-            weekdays[5] = "Friday";
-            weekdays[6] = "Saturday";
-            var r = weekdays[today.getDay()];
+        var weekdays = new Array(7)
+        weekdays[0] = "Sunday";
+        weekdays[1] = "Monday";
+        weekdays[2] = "Tuesday";
+        weekdays[3] = "Wednesday";
+        weekdays[4] = "Thursday";
+        weekdays[5] = "Friday";
+        weekdays[6] = "Saturday";
+        var r = weekdays[today.getDay()];
 
-            var hourNow = today.getHours();
-            var greeting;
+        var hourNow = today.getHours();
+        var greeting;
 
-            if (hourNow > 18) {
-                greeting = "Evening,";
-            } else if (hourNow > 12) {
-                greeting = "Afternoon,";
-            } else if (hourNow > 0) {
-                greeting = "Morning,";
-            } else if (hourNow == 0) {
-                greeting = "Midnight";
-            }
-            document.write('<h1>' + "Good " + r + " " + greeting + " " + "I'm Andrew Cowick" + '</h1>');
-        </script>
-        <p>
-            <img src="Me As A Mii.PNG" alt="Me As A Mii Character" width="100" height="170" align="left" />
-            I'm a software engineer.
-            I graduated from Georgia College & State University.
-            I have a degree in Management Information Systems B.B.A.
-            I am a .NET developer. I love front-end web development, and I am interested in Android app development.
-            <a href="/about">You can read more about me here</a><br /></p><br />
+        if (hourNow > 18) {
+            greeting = "Evening,";
+        } else if (hourNow > 12) {
+            greeting = "Afternoon,";
+        } else if (hourNow > 0) {
+            greeting = "Morning,";
+        } else if (hourNow == 0) {
+            greeting = "Midnight";
+        }
+        document.write('<h1>' + "Good " + r + " " + greeting + " " + "I'm Andrew Cowick" + '</h1>');
+    </script>
+    <p>
+        <img src="Me As A Mii.PNG" alt="Me As A Mii Character" width="100" height="170" align="left" />
+        I'm a software engineer.
+        I graduated from Georgia College & State University.
+        I have a degree in Management Information Systems B.B.A.
+        I am a .NET developer. I love front-end web development, and I am interested in Android app development.
+        <a href="/about">You can read more about me here</a><br />
+    </p><br />
 
-    </div><!-- /.blurb -->
+    <a class="weatherwidget-io" href="https://forecast7.com/en/33d75n84d39/atlanta/?unit=us" data-label_1="ATLANTA, GA" data-label_2="WEATHER" data-font="Roboto" data-icons="Climacons Animated" data-theme="dark" data-basecolor="#222222" data-accent="#222222" data-textcolor="#50f148" data-highcolor="#a1ac25" data-lowcolor="#19809e" data-suncolor="#a1ac25" data-mooncolor="#19809e" data-cloudcolor="#19809e" data-cloudfill="#222222" data-raincolor="#19809e" data-snowcolor="#19809e">ATLANTA, GA WEATHER</a>
+    <script>
+        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');
+    </script>
+
+</div><!-- /.blurb -->
